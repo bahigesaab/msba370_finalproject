@@ -132,7 +132,7 @@ def usa_sales_analytics():
     st.markdown(
         """
         <style>
-        .css-1idizjf, .css-zi8otl{
+        .css-1idizjf, .css-zi8otl, .css-16i25t9{
             border: 1px solid;
             text-align: center;
         }
