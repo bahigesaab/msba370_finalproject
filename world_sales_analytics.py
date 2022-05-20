@@ -134,7 +134,7 @@ def world_sales_analytics():
     st.markdown(
         """
         <style>
-        .css-1idizjf, .css-zi8otl, .css-16i25t9{
+        .css-1idizjf, .css-zi8otl, .css-16i25t9, .css-18ut3yg{
             border: 1px solid;
             text-align: center;
         }
