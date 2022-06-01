@@ -124,7 +124,7 @@ def usa_profit_analytics():
     st.markdown(
         """
         <style>
-        .css-1idizjf, .css-zi8otl{
+        .css-1idizjf, .css-zi8otl, .css-1r6slb0{
             border: 1px solid;
             text-align: center;
             margin: auto;
